@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30156" started-at="2019-02-22T21:24:55Z" finished-at="2019-02-22T21:25:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30156" started-at="2019-02-22T21:24:55Z" finished-at="2019-02-22T21:25:25Z">
+      <class name="com.crm.qa.testdata.NewContactPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testdata.NewContactPageTest@1a968a59]" name="setup" is-config="true" duration-ms="11626" started-at="2019-02-22T21:24:55Z" finished-at="2019-02-22T21:25:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="read(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.crm.qa.testdata.NewContactPageTest@1a968a59]" name="read" duration-ms="2324" started-at="2019-02-22T21:25:07Z" data-provider="readExcel" finished-at="2019-02-22T21:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Moksha]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[SAA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[OCM]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- read -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.crm.qa.testdata.NewContactPageTest@1a968a59]" name="TearDown" is-config="true" duration-ms="742" started-at="2019-02-22T21:25:09Z" finished-at="2019-02-22T21:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testdata.NewContactPageTest@1a968a59]" name="setup" is-config="true" duration-ms="11121" started-at="2019-02-22T21:25:10Z" finished-at="2019-02-22T21:25:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="read(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.crm.qa.testdata.NewContactPageTest@1a968a59]" name="read" duration-ms="2777" started-at="2019-02-22T21:25:21Z" data-provider="readExcel" finished-at="2019-02-22T21:25:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Miss]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[HIKE]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[JUIN]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[IYBJN]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- read -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.crm.qa.testdata.NewContactPageTest@1a968a59]" name="TearDown" is-config="true" duration-ms="743" started-at="2019-02-22T21:25:24Z" finished-at="2019-02-22T21:25:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.crm.qa.testdata.NewContactPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
