@@ -9,6 +9,9 @@ import com.crm.qa.base.BaseClass;
 import com.crm.qa.util.TestUtil;
 
 public class ContactsPage extends BaseClass{
+	
+	/*author name is 
+	janaki*/
 
 	@FindBy(xpath="//td[contains(text(),'Contacts')]")
 	WebElement ContactsDispaly;
